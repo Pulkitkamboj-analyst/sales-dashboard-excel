@@ -17,7 +17,6 @@ This project presents an interactive Sales Dashboard built using Microsoft Excel
 - Slicers
 
 ## 📷 Dashboard Preview
-![Dashboard](Screenshot 2026-03-28 141320.png)
-
+![Dashboard](dashboard.png)
 ## 🚀 Learning Outcome
 This project helped me understand data cleaning, data visualization, and building interactive dashboards.
